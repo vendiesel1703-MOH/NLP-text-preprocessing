@@ -39,3 +39,8 @@ Entities: Apple → ORG U.K. → GPE $1 billion → MONEY
 ---
 ## Author
 Mohit Nagdeep
+
+## 🚀 Future Improvements
+- Add more NLP techniques (TF-IDF, Word Embeddings)
+- Build a simple NLP web app using Streamlit
+- Extend to real-world datasets
